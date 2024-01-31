@@ -1,0 +1,2 @@
+# Esta reglas sirve para ignorar los archivos .class
+*.class
