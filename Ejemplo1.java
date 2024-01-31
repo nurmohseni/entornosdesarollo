@@ -4,5 +4,8 @@ public class Ejemplo1{
 		String nombre = "Nurullah";
 		System.out.println("Mi nombre es "+nombre);
 		System.out.pritnln("HOLA DE NUEVO");
+		for(int i = 0; i<=10 ; i++){
+			System.out.pritnln("Vuelta "+i); 
+		}
 	}
 }
